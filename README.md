@@ -9,10 +9,10 @@
 
 ## Comandos utilizados
 
-### Comando para clonar el repositorio:
-*git clone https://github.com/munoz437/2021-1-AS1-LAB1.git
+* Comando para clonar el repositorio:
+    * git clone https://github.com/munoz437/2021-1-AS1-LAB1.git
 
-### Comandos para subir los archivos a github
-*git add readme.md
-*git commit -m "comentario"
-*git push
+* Comandos para subir los archivos a github
+    * git add readme.md
+    * git commit -m "comentario"
+    * git push
