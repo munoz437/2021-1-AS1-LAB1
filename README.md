@@ -4,8 +4,8 @@
 ### LABORATORIO 1
 
 #### Datos del Estudiante:
-    * JORGE LUIS MUÑOZ ELÍAS
-    * 1290-18-17071
+* JORGE LUIS MUÑOZ ELÍAS
+* 1290-18-17071
 
 
 ## Comandos utilizados
