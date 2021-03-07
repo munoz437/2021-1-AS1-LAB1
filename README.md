@@ -16,3 +16,5 @@
     * git add nombreArchivo
     * git commit -m "comentario"
     * git push
+* Comandos para descargar los archivos a github
+    * git pull
