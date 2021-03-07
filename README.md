@@ -3,7 +3,7 @@
 ### ARQUITECTURA DE COMPUTADORAS SECCIÓN “A”
 ### LABORATORIO 1
 
-* Datos del Estudiante:
+#### Datos del Estudiante:
     * JORGE LUIS MUÑOZ ELÍAS
     * 1290-18-17071
 
